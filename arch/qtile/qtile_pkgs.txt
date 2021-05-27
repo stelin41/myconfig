@@ -1,0 +1,3 @@
+qtile
+feh
+picom
