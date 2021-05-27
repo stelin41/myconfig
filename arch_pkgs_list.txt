@@ -1,0 +1,10 @@
+urxvt
+ranger
+
+firefox
+cmus
+
+
+youtube-dl
+
+python
