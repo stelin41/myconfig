@@ -1,3 +1,19 @@
+xf86-video-fbdev
+xf86-video-intel
+
+xorg-server
+xorg-xinit
+
+lightdm
+lightdm-gtk-greeter
+lightdm-gtk-greeter-settings
+
+pango
 qtile
 feh
 picom
+rxvt-unicode
+
+python
+python-pip
+(and all pip packages in config.py)
