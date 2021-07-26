@@ -6,7 +6,7 @@ mpg123
 htop
 
 man-pages
-7z
+p7zip
 youtube-dl
 wget
 curl
@@ -22,7 +22,7 @@ python
 uxrvt
 
 mpv
-ffmpg
+ffmpeg
 network-manager-applet
 pcmanfm
 
