@@ -1,2 +1,2 @@
 # myconfig
-My custom config files for arch, gentoo, qtile, dwm and a list of packages.
+My custom config files for macOs and linux
