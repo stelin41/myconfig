@@ -1,2 +1,2 @@
 # myconfig
-My custom config files for macOs and linux
+My custom config files for macOS, Arch Linux and Gentoo
