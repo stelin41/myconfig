@@ -4,7 +4,7 @@ window:
     columns: 92
     lines: 26
   padding:
-    x: 16
+    x: 14
     y: 20
   decorations: transparent #Still won't show in a window manger, but will in a desktop environment
 scrolling:
